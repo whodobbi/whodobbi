@@ -9,6 +9,12 @@
 - Открыта для обсуждений и обмена опытом в области backend-разработки
 
 ---
+## Технологии:
+
+- **Языки**: Python, SQL, HTML, CSS
+- **Базы данных**: PostgreSQL, SQLite
+- **Инструменты**: Git, Docker, Docker-compose, Linux
+- **Изучаю**: FastAPI, Flask, SQLAlchemy, Linux, Celery, CI/CD
 
 ## Как связаться со мной:
 
