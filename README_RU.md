@@ -14,7 +14,8 @@
 - **Языки**: Python, SQL, HTML, CSS
 - **Базы данных**: PostgreSQL, SQLite
 - **Инструменты**: Git, Docker, Docker-compose, Linux
-- **Изучаю**: FastAPI, Flask, SQLAlchemy, Linux, Celery, CI/CD
+- **Фреймворки / Библиотеки**: Django, aiogram, asyncio, Pytest
+- **Изучаю**: FastAPI, Flask, SQLAlchemy, Redis, Celery, CI/CD
 
 ## Как связаться со мной:
 
