@@ -4,7 +4,7 @@
 
 I'm a backend developer with experience in creating REST APIs using Python and Django. I strive to apply my knowledge in real projects, solve interesting challenges, and continuously grow. In my work, I use Git and Docker for version control and containerization. I'm currently studying FastAPI and CI/CD to enhance my automation and deployment skills.
 
-- Currently learning: FastAPI, Flask, SQLAlchemy, Linux, Celery, CI/CD
+- Currently learning: FastAPI, Flask, SQLAlchemy, Redis, Celery, CI/CD
 - Interested in building scalable and optimized solutions with a focus on clean code
 - Open to discussions and sharing experiences in backend development
 
