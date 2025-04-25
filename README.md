@@ -15,7 +15,8 @@ I'm a backend developer with experience in creating REST APIs using Python and D
 - **Languages**: Python, SQL, HTML, CSS
 - **Databases**: PostgreSQL, SQLite
 - **Tools**: Git, Docker, Docker-compose, Linux
-- **Currently learning**: FastAPI, Flask, SQLAlchemy, Linux, Celery, CI/CD
+- **Frameworks / Libraries**: Django, aiogram, asyncio, Pytest
+- **Currently learning**: FastAPI, Flask, SQLAlchemy, Linux, Celery, Redis, CI/CD
 
 ---
 
